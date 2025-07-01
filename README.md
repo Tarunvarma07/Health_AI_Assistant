@@ -1,4 +1,4 @@
-# 🩺 HealthAI – Intelligent Healthcare Assistant
+# 🩺 HealthAI : Intelligent Healthcare Assistant Using IBM Granite
 
 A Streamlit-based AI assistant powered by Hugging Face's `Mixtral-8x7B` model that helps patients with:
 
